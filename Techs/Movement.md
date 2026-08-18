@@ -16,5 +16,4 @@ Default movement gives you 500 u/s:
 
 Sprint increases your speed up to 750 u/s and crouch reduses to 400 u/s:
 
-![SprintSpeed](GIFs/SprintSpeed.gif)
-![CrouchedSpeed](GIFs/CrouchedSpeed.gif)
+![SprintSpeed](GIFs/SprintSpeed.gif) ![CrouchedSpeed](GIFs/CrouchedSpeed.gif)
