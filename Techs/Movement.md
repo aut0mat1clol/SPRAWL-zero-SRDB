@@ -3,8 +3,8 @@
 Table of Contents:
 - [Movement Techs](#movement-techs)
   - [Basic Movement Mechanics](#basic-movement-mechanics)
+  - [Advanced Movement Techs](#advanced-movement-techs)
    
-
 
 ## Basic Movement Mechanics
 
@@ -21,3 +21,11 @@ Sprint increases your speed up to 750 u/s and crouch reduses to 400 u/s:
 Sliding adds 100 u/s to sprinting speed, bringing it to 850 u/s:
 
 ![SlideSpeed](GIFs/SlideSpeed.gif)
+
+And jumping which gives player 750 u/s on vertical (Z) axis:
+
+![JumpSpeed](GIFs/JumpSpeed.gif)
+
+## Advanced Movement Techs
+
+First ever discovered tech was bhop.
