@@ -1,4 +1,4 @@
-# SPRAWL zero SpeedRunning DataBase
+# ![SPRAWL zero SpeedRunning DataBase](Images/sprawlzeroSRDB.png)
 
 This is a collection of all known strategies and techs of [SPRAWL zero](https://store.steampowered.com/app/3748520/SPRAWL_zero/).
 

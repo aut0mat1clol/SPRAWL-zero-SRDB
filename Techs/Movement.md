@@ -28,4 +28,4 @@ And jumping which gives player 750 u/s on vertical (Z) axis:
 
 ## Advanced Movement Techs
 
-First ever discovered tech was bhop.
+First ever discovered tech was bhop. 
