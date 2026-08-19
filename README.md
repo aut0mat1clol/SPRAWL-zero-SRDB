@@ -9,7 +9,7 @@ Everything written is based on the currently available demo versions of the game
 
 
 1. [Movement Techs](Techs/Movement.md)
-2. [Levels (WIP)](Levels)
+2. [Levels](Levels)
    * [The Graveyard](<Levels/The Graveyard.md>)
-   * [Buried](<Levels/Buried.md>)
+   * [Buried (WIP)](<Levels/Buried.md>)
 3. [Useful Tools (WIP)](#tools)
