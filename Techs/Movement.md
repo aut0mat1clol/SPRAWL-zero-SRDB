@@ -30,4 +30,4 @@ And jumping which gives player 750 u/s on vertical (Z) axis:
 
 As soon as demo was release, many people discovered that game has bunnyhop. Bunnyhop (also known as BHop) is a technique when you continously press A and D and move your mouse in the direction of your movement. Unlike in the id Tech or Source engines, jumping on inclined surfaces here does not affect the player's speed.
 
-[Default Bhop](Videos/DefaultBHop.webm)
+![DefaultBhop](Avifs/DefaultBHop_30fps.avif)
