@@ -2,7 +2,8 @@
 
 This is a collection of all known strategies and techs of [SPRAWL zero](https://store.steampowered.com/app/3748520/SPRAWL_zero/).
 
-Everything written is based on current demo versions available of the game.
+Everything written is based on the currently available demo versions of the game.
+
 
 ## Table of Contents
 
