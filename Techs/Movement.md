@@ -8,8 +8,9 @@ Table of Contents:
     - [Side Sliding](#side-sliding)
     - [Crouch Hopping](#crouch-hopping)
     - [Powered Crouch Hopping](#powered-crouch-hopping)
-  - [Patch dependent Techs](#patch-dependent-techs)
-    - [Double Jumping (Demo's Current version)](#double-jumping-demos-current-version)
+  - [Patch-Dependent Techs](#patch-dependent-techs)
+    - [Double Jumping (Demo's Current Version)](#double-jumping-demos-current-version)
+
 
 ## Basic Movement Mechanics
 
@@ -57,10 +58,10 @@ And if you combine the Crouch Hopping and Side Sliding techniques, you'll get ev
 
 ![PowerCrouchHopping](Avifs/PowerCrouchHopping.avif)
 
-## Patch dependent Techs
+## Patch-Dependent Techs
 
-### Double Jumping (Demo's Current version)
+### Double Jumping (Demo's Current Version)
 
-This is a bug that appeared in current version of the demo and it doesn't work on older one. The technique is very simple - you just need to press Jump twice to get a double jump. You can do even more jumps if you spam your spacebar, but this is not really consistent
+This is a bug that appeared in the current version of the demo, and it doesn't work on the older one. The technique is very simple — you just need to press Jump twice to get a double jump. You can do even more jumps if you spam your spacebar, but this is not really consistent.
 
 ![DoubleJumping](Avifs/DoubleJumping.avif)
