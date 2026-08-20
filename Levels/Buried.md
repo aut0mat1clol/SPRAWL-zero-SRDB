@@ -1,6 +1,6 @@
 # ![Buried](../Images/Buried.png)
 
-Unlike The Graveyard, the fastest patch to play this level is the current one. (No videos for now — I'll add them later.)
+Unlike The Graveyard, the fastest patch to play this level is the current one.
 
 ## Beginning
 
