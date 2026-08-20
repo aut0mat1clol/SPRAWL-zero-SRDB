@@ -1,7 +1,7 @@
 # ![Movement Techs](../Images/MovementTechs.png)
 
 Table of Contents:
-- [](#)
+
   - [Basic Movement Mechanics](#basic-movement-mechanics)
   - [Advanced Movement Techs](#advanced-movement-techs)
     - [Bunnyhop (BHop)](#bunnyhop-bhop)
