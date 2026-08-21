@@ -6,7 +6,9 @@ Everything written is based on the currently available demo versions of the game
 
 ## Table of Contents
 
-1. [Movement Techs](Techs/Movement.md)
+1. [Techs and Mechanics](Techs)
+   * [Movement Techs](<Techs/Movement.md>)
+   * [Random Weapons Chest](<Techs/RandomWeapons.md>)
 2. [Levels](Levels)
    * [The Graveyard](<Levels/The Graveyard.md>)
    * [Buried](<Levels/Buried.md>)
