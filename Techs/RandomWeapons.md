@@ -14,7 +14,7 @@ The "weapon roll" shows the following sequence of weapons with each tick the che
 |---|---|
 | 1 | Tier 3 - Shogo S9 (Pistol) |
 | 2 | Tier 5 - 500 Governor (Revolver) |
-| 3 | Tier 3 - Mitsurugi F18 (Rifle) |
+| 3 | Tier 3 - Mitsurugi F1B (Rifle) |
 | 4 | Tier 5 - Locust (Grenade Launcher) |
 | 5 | Tier 3 - Purifier (Rifle) |
 | 6 | Tier 3 - Ignis Malleus (Hammer) |
