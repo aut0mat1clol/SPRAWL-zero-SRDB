@@ -1,23 +1,23 @@
-# Random Weapons Chest
+# ![alt text](../Images/RandomWeapons.png)
 
-SPRAWL zero changed a way to get weapons. Now you either get them from enemies or from chests with random weapons. However, this chest is easily manipulatable and you dont even need to wait until it drops something useful.
+SPRAWL zero changed the way you get weapons. Now you either get them from enemies or from chests with random weapons. However, this chest is easy to manipulate, and you don't even need to wait until it drops something useful.
 
-## How chests work?
+## How Chests Work
 
-It's pretty easy. As soon as you open the chest it shows variety of weapons and at the end gives you random one.
+It's pretty easy. As soon as you open the chest, it shows a variety of weapons and at the end gives you a random one.
 
-Starting "weapon roll" shows next array of weapons with each tick chest makes:
+The "weapon roll" shows the following sequence of weapons with each tick the chest makes:
 
 ![RandomChest](Avifs/RandomChest.avif)
 
-| Tick | Tier - Weapon (Class)|
+| Tick | Tier - Weapon (Class) |
 |---|---|
 | 1 | Tier 3 - Shogo S9 (Pistol) |
-| 2 | Tier 5 - 500 Governor (Revolver)|
+| 2 | Tier 5 - 500 Governor (Revolver) |
 | 3 | Tier 3 - Mitsurugi F18 (Rifle) |
-| 4 | Tier 5 - Locust (Grenade Launcher)|
+| 4 | Tier 5 - Locust (Grenade Launcher) |
 | 5 | Tier 3 - Purifier (Rifle) |
-| 6 | Tier 3 - Ignis Malleus (Hammer)|
+| 6 | Tier 3 - Ignis Malleus (Hammer) |
 | 7 | Tier 1 - Gavel (Magnum) |
 | 8 | Tier 3 - Impaler (Rifle) |
 | 9 | Tier 3 - Thermal Saw (Saw) |
@@ -31,10 +31,10 @@ Starting "weapon roll" shows next array of weapons with each tick chest makes:
 | 17 | Tier 5 - Junfa MG-X (Minigun) |
 | 18 | Random Weapon |
 
-## What about the manipulation?
+## What About the Manipulation?
 
-For speedruns, randomness of any events is really bad. So I found simple, yet smart way to get any weapon from this list you need.
+For speedruns, any randomness is really bad. So I found a simple, yet smart way to get any weapon you need from this list.
 
-First weapon that you allowed to get is Mitsurugi F18 since on ticks 1 and 2 you unable to use your hands. For speedrun, expecially for Inbounds category, Locust is the thing you want. So, you just need to press use on weapon from previous tick (in our case, Mitsurugi F18) and that's it, you got it!
+The first weapon you're allowed to get is Mitsurugi F18, since on ticks 1 and 2 you're unable to use your hands. For a speedrun, especially for the Inbounds category, Locust is the thing you want. So, you just need to press use on the weapon from the previous tick (in our case, Mitsurugi F18) and that's it — you got it!
 
-(EarlyWeaponGrab.mp4)
+https://github.com/user-attachments/assets/952259c3-d153-4b55-8fdb-6826b0403c6a
