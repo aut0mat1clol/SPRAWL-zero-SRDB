@@ -37,4 +37,4 @@ For speedruns, randomness of any events is really bad. So I found simple, yet sm
 
 First weapon that you allowed to get is Mitsurugi F18 since on ticks 1 and 2 you unable to use your hands. For speedrun, expecially for Inbounds category, Locust is the thing you want. So, you just need to press use on weapon from previous tick (in our case, Mitsurugi F18) and that's it, you got it!
 
-(EarlyWeaponGrab.mp4)
+https://github.com/user-attachments/assets/952259c3-d153-4b55-8fdb-6826b0403c6a
