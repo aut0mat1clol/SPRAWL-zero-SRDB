@@ -1,4 +1,4 @@
-# ![alt text](../Images/RandomWeapons.png)
+# ![Random Weapons Chest](../Images/RandomWeapons.png)
 
 SPRAWL zero changed the way you get weapons. Now you either get them from enemies or from chests with random weapons. However, this chest is easy to manipulate, and you don't even need to wait until it drops something useful.
 
@@ -35,6 +35,6 @@ The "weapon roll" shows the following sequence of weapons with each tick the che
 
 For speedruns, any randomness is really bad. So I found a simple, yet smart way to get any weapon you need from this list.
 
-The first weapon you're allowed to get is Mitsurugi F18, since on ticks 1 and 2 you're unable to use your hands. For a speedrun, especially for the Inbounds category, Locust is the thing you want. So, you just need to press use on the weapon from the middle/end of previous tick (in our case, Mitsurugi F18), because animation lasts ~1 Chest's Tick and that's it — you got it!
+The first weapon you're allowed to get is Mitsurugi F18, since on ticks 1 and 2 you're unable to use your hands. For a speedrun, especially for the Inbounds category, Locust is the thing you want. So, you just need to press use on the weapon from the middle/end of the previous tick (in our case, Mitsurugi F18), because the animation lasts about one chest tick — and that's it, you got it!
 
 https://github.com/user-attachments/assets/952259c3-d153-4b55-8fdb-6826b0403c6a
